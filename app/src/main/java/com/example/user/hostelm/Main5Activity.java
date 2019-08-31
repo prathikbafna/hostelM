@@ -17,7 +17,7 @@ public class Main5Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main5);
 
 
-        tv2=findViewById(R.id.textView2);
+       tv2=findViewById(R.id.textView2);
 
         st=getIntent().getExtras().getString("value5");
         tv2.setText(st.toUpperCase());
