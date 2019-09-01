@@ -18,11 +18,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".Main2Activity"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity"></activity>
+
         <activity android:name=".Main3Activity"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity"></activity>
+
         <activity android:name=".Main4Activity"
-            android:parentActivityName=".MainActivity"/>
+            android:parentActivityName=".MainActivity"></activity>
+
         <activity android:name=".Main5Activity"
             android:parentActivityName=".MainActivity"></activity>
     </application>
